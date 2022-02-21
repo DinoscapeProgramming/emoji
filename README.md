@@ -26,3 +26,6 @@ emoji("soccer ball")
 ```js
 emoji({ shortname: "joy" })
 ```
+
+## Note
+GUYS, PLEASE USE THIS PACKAGE, IT TAKED ME SOOOOOOO LONG TIME TO LIST ALL EMOJI IN A FILE, PLEASE PLEASE PLEASE... I LOVE YOU, DAMN!!!
