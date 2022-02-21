@@ -13,16 +13,16 @@ node installation.js
 
 ## Documentation
 ### Required the program
-```
+```js
 const emoji = require('./emoji.js');
 ```
 
 ### Get emoji with name
-```
+```js
 emoji("football")
 ```
 
 ### Get emoji with parameter
-```
+```js
 emoji({ query: "10" })
 ```
