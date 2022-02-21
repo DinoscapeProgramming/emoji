@@ -20,4 +20,4 @@ const emoji = function (data) {
   return e;
 }
 
-module.exports = { emoji }
+module.exports = emoji
