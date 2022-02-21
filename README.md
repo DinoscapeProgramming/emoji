@@ -24,5 +24,5 @@ emoji("football")
 
 ### Get emoji with parameter
 ```js
-emoji({ query: "10" })
+emoji({ shortname: "joy" })
 ```
