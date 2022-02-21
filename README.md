@@ -19,7 +19,7 @@ const emoji = require('./emoji.js');
 
 ### Get emoji with name
 ```js
-emoji("football")
+emoji("soccer ball")
 ```
 
 ### Get emoji with parameter
