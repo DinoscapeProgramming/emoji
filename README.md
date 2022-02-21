@@ -10,3 +10,19 @@ Then you need to start the installation. Run this command now:
 ```
 node installation.js
 ```
+
+## Documentation
+### Required the program
+```
+const emoji = require('./emoji.js');
+```
+
+### Get emoji with name
+```
+emoji("football")
+```
+
+### Get emoji with parameter
+```
+emoji({ query: "10" })
+```
