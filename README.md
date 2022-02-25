@@ -27,5 +27,14 @@ emoji("soccer ball")
 emoji({ shortname: "joy" })
 ```
 
+## Example
+```js
+const emoji = require('./emoji.js');
+
+console.log(emoji("soccer ball"))
+
+console.log(emoji({ shortname: "joy" }))
+```
+
 ## Note
 GUYS, PLEASE USE THIS PACKAGE, IT TAKED ME SOOOOOOO LONG TIME TO LIST ALL EMOJI IN A FILE, PLEASE PLEASE PLEASE... I LOVE YOU, DAMN!!!
